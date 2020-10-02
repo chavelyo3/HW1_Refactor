@@ -1,4 +1,4 @@
-* {
+*{
     box-sizing: border-box;
     padding: 0;
     margin: 0;
@@ -13,7 +13,7 @@ body {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: #ffffff;
+    color: #ffffff;   
 }
 
 .header h1 {
@@ -97,6 +97,7 @@ p {
 .benefit-lead h3,.benefit-brand h3,.benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
+    
 }
 
 /* consolidated */
@@ -114,6 +115,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    
 }
 
 /* consolidated */
