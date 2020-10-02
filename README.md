@@ -4,4 +4,4 @@ combined CSS with the same elemtents and class <br>
 Comments added with code purpose
 
 
-![image]
+
