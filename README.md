@@ -7,6 +7,6 @@ Comments added with code purpose
 
 ##Screenshots
 ![screenshot of deployed header]
-(assets/images/hw1).png
-![Screenshot of deployed app bottom half]
-(assets/images/hw1_2.png)
+(../assets/images/hw1.png)
+![Screenshot of deployed of bottom half]
+(../assets/images/hw1_2.png)
