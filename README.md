@@ -1,2 +1,3 @@
-# HW1_Refactor
-<img src="../screenshots/hw1.png>
+#HTML refactor 
+update HTML semantics
+combined CSS with the same elemtents and class 
